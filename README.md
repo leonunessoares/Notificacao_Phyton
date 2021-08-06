@@ -6,7 +6,6 @@
 
 from win10toast import ToastNotifier
 
-
 def chama_mensagem():
     toast = ToastNotifier()
     return toast.show_toast(
