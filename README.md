@@ -1,6 +1,6 @@
 # Notificacao_Phyton
 
-#Receber notificação
+#Receber notificação na tela do computador
 
 #rodar pip install win10toast
 
